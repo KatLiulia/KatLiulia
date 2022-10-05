@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KatLiulia
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, ML and SQL
-- 📫 How to reach me - Telegram https://t.me/kthrnll
+I'm an aspiring data scientist with experience in metallurgy and construction. I'm interested in high tech and data analysis. Currently I'm learning Python, ML and SQL. 
+Open to suggestions.
+
+📫 Telegram: https://t.me/kthrnll
 
 <!---
 KatLiulia/KatLiulia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
