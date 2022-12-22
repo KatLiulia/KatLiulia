@@ -1,5 +1,4 @@
 I'm an aspiring data scientist and analyst with experience in metallurgy and construction. I'm interested in high tech and data analysis. Currently I'm learning Python, ML and SQL. 
-Open to suggestions.
 
 📫 Telegram: https://t.me/kthrnll
 
